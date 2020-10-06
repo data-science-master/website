@@ -1,6 +1,6 @@
-baseurl = "https://nanx.me/hugo-tanka/"
-title = "Hugo Tanka Theme"
-author = "Nan Xiao"
+baseurl = "https://loving-haibt-448d60.netlify.app/"
+title = "David Gerard's Example Website"
+author = "David Gerard"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
@@ -15,25 +15,21 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Hugo Tanka Theme"
+  sitename = "David Gerard's Example Website"
 
 [[menu.main]]
     name = "Home"
-    url = "https://nanx.me"
+    url = "/index.html"
     weight = 1
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/nanxstats"
+    name = "Code"
+    url = "/code/index.html"
     weight = 2
 [[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/nanxstats"
-    weight = 3
+    name = "Papers"
+    url = "/papers/index.html"
+    weight = 2
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/nanxstats"
-    weight = 4
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
+    url = "https://twitter.com/EmpiricalDave"
+    weight = 3

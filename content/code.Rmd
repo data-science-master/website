@@ -1,0 +1,27 @@
+---
+title: Code
+author: David Gerard
+date: '2020-10-06'
+slug: code
+categories: []
+tags: []
+---
+
+You can check out my projects on my GitHub page: <https://github.com/dcgerard>
+
+I currently have four R packages published on [CRAN](https://cran.r-project.org/):
+
+- David Gerard (2020a). *ldsep: Linkage disequilibrium shrinkage estimation for polyploids.* url: <https://cran.r-project.org/package=ldsep>
+- David Gerard (2020b). *seqgendiff: RNA-seq generation/modification for simulation.* url: <https://cran.r-project.org/package=seqgendiff>
+- David Gerard (2020c). *updog: Flexible genotyping for polyploids.* url: <https://cran.r-project.org/package=updog>
+- David Gerard and Peter Hoff (2018). *tensr: Covariance inference and decompositions for tensor datasets.* url: <https://cran.r-project.org/package=tensr>
+
+A lot of my research projects involve linked, executable code and data.
+
+- Pairwise Linkage Disequilibrium Estimation for Polyploids (2020): <https://github.com/dcgerard/ld_simulations>
+- Data-based RNA-seq simulations by binomial thinning (2020): <https://github.com/dcgerard/reproduce_fasims>
+- Empirical Bayes shrinkage and false discovery rate estimation, allowing for unwanted variation (2020):  <https://github.com/dcgerard/mouthwash_sims>
+- Priors for genotyping polyploids (2020): <https://github.com/dcgerard/reproduce_prior_sims>
+- Unifying and generalizing methods for removing unwanted variation based on negative controls (in press):  <https://github.com/dcgerard/ruvb_sims>
+- Genotyping polyploids from messy sequencing data (2018): <https://github.com/dcgerard/reproduce_genotyping>
+- Adaptive higher-order spectral estimators (2017): <https://github.com/dcgerard/reproduce_sure>
