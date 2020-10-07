@@ -1,13 +1,11 @@
 ---
 title: Papers
 author: David Gerard
-date: '2020-10-06'
+date: '`r Sys.Date()`'
 slug: papers
 categories: []
 tags: []
 ---
-
-Here is a list of my current papers!
 
 ### Peer Reviewed and Published
 

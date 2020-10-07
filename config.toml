@@ -1,5 +1,5 @@
 baseurl = "https://loving-haibt-448d60.netlify.app/"
-title = "David Gerard's Example Website"
+title = "David Gerard's Website"
 author = "David Gerard"
 canonifyurls = true
 languagecode = "en"
@@ -15,7 +15,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "David Gerard's Example Website"
+  sitename = "David Gerard's Website"
 
 [[menu.main]]
     name = "Home"
@@ -28,8 +28,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Papers"
     url = "/papers/index.html"
-    weight = 2
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/index.html"
+    weight = 4
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/EmpiricalDave"
-    weight = 3
+    weight = 5

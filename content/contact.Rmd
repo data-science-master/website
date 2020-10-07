@@ -1,0 +1,22 @@
+---
+title: Contact
+author: David Gerard
+date: '`r Sys.Date()`7'
+slug: contact
+categories: []
+tags: []
+---
+
+Here is my contact information:
+
+- **Name**: Dr. David Gerard
+- **Pronouns**: he/him/his
+- **Mailing Address**:
+
+    Department of Mathematics and Statistics <br>
+    3501 Nebraska Ave NW <br>
+    Don Myers Technology & Innovation Building, 106E <br>
+    Washington, DC 20016 <br>
+    U.S.A.
+    
+- **Email**: dgerard [at] american [dot] edu

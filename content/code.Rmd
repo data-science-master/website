@@ -1,7 +1,7 @@
 ---
 title: Code
 author: David Gerard
-date: '2020-10-06'
+date: '`r Sys.Date()`'
 slug: code
 categories: []
 tags: []
@@ -16,7 +16,7 @@ I currently have four R packages published on [CRAN](https://cran.r-project.org/
 - David Gerard (2020c). *updog: Flexible genotyping for polyploids.* url: <https://cran.r-project.org/package=updog>
 - David Gerard and Peter Hoff (2018). *tensr: Covariance inference and decompositions for tensor datasets.* url: <https://cran.r-project.org/package=tensr>
 
-A lot of my research projects involve linked, executable code and data.
+I am a strong believer in **reproducible research**, so a lot of my research projects involve linked, executable code and data.
 
 - Pairwise Linkage Disequilibrium Estimation for Polyploids (2020): <https://github.com/dcgerard/ld_simulations>
 - Data-based RNA-seq simulations by binomial thinning (2020): <https://github.com/dcgerard/reproduce_fasims>
